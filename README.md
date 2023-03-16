@@ -11,3 +11,4 @@ Summary of a job：
 [人脸识别的个人信息保护问题探析_金文惠.pdf](https://github.com/andaoxiansheng/v2/files/10956860/_.pdf)
 
 [人脸识别技术在校园管理中的应用_宋爽.pdf](https://github.com/andaoxiansheng/v2/files/10956862/_.pdf)
+[MIS系统建议框架-2023-02-26.docx](https://github.com/andaoxiansheng/v2/files/10987868/MIS.-2023-02-26.docx)
