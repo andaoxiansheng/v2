@@ -15,3 +15,5 @@ Summary of a job：
 [MIS系统建议框架-2023-02-26.docx](https://github.com/andaoxiansheng/v2/files/10987868/MIS.-2023-02-26.docx)
 
 [软件工程实践之毕业设计-3.pptx](https://github.com/andaoxiansheng/v2/files/10987888/-3.pptx)
+
+[MIS.-2023-02-26.docx](https://github.com/andaoxiansheng/v2/files/11046710/MIS.-2023-02-26.docx)
