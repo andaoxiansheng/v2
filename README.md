@@ -16,4 +16,4 @@ Summary of a job：
 
 [软件工程实践之毕业设计-3.pptx](https://github.com/andaoxiansheng/v2/files/10987888/-3.pptx)
 
-[MIS.-2023-02-26.docx](https://github.com/andaoxiansheng/v2/files/11213344/MIS.-2023-02-26.docx)
+[Uploading MIS.-2023-02-26.docx…]()
